@@ -1,11 +1,11 @@
-streamlit==1.10.0
-pandas==1.4.2
-numpy==1.22.3
-matplotlib==3.5.1
-seaborn==0.11.2
-scikit-learn==1.0.2
-tensorflow==2.9.1
-pybaseball==2.2.1
-sqlalchemy==1.4.36
-requests==2.27.1
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+pybaseball
+sqlalchemy
+requests
 
