@@ -14,7 +14,13 @@ import seaborn as sns
 from pybaseball import statcast
 import matplotlib.pyplot as plt
 import seaborn as sns
+import streamlit as st
+import pandas as pd
+import numpy as np
+import math
+import random
 
+st.write('Hi!')
 
 # Load data
 df1 = statcast(start_dt="2023-08-24", end_dt="2023-08-25")
