@@ -20,7 +20,6 @@ import numpy as np
 import math
 import random
 
-st.write('Hi!')
 
 # Load data
 st.set_page_config(page_title='Baseball Data Analysis', layout='wide')
